@@ -1,0 +1,21 @@
+{
+  "name": "bilive",
+  "version": "1.0.0",
+  "description": "auto upgrade bilibili live level by sending heartbeat to bilibili live",
+  "main": "bilive.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giuem/bilive"
+  },
+  "bugs": {
+    "url" : "https://github.com/giuem/bilive/issues"
+  },
+  "author": "Giuem <i@giuem.com>",
+  "keywords": [
+    "bilibil"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.15.3"
+  }
+}
